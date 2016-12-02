@@ -6,5 +6,5 @@
 https://github.com/vahnvil/otm2016/blob/master/dokumentointi/kaytto-ohje.md
 Linkki dokumentoinnissa olevaan *README.md*: hen
 
-https://github.com/vahnvil/otm2016/tree/master/dokumentointi
+https://github.com/vahnvil/otm2016/blob/master/dokumentointi/maarittelydokumentti.md
 Linkki **maarittelydokumenttiin** dokumentoinnissa
